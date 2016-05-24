@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Hello ;dfio;sog");
         System.out.println("Привет, сегодня: ");
         System.out.println(new Date());
-        print();
+        //print();
         printnb("jjjjj---");
         print("pijipjp");
 
