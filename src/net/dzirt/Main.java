@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Привет, сегодня: ");
         System.out.println(new Date());
         print();
-        printnb("jjjjj   ");
+        printnb("jjjjj---");
         print("pijipjp");
 
 
